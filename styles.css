@@ -1,0 +1,75 @@
+.title {
+   display:flex;
+   width:100%;
+   justify-content:center;
+   background-color:cadetBlue;
+}
+
+.container {
+    display:flex;
+    padding:20px;
+}
+
+.menu {
+    display:flex;
+    justify-content: space-between ;
+    width: 100%;
+    border: 10px solid black;
+    margin:20px;
+}
+
+.main {
+    display:flex;
+    justify-content: space-between ;
+    width: 100%;
+    border: 10px solid black;
+    margin:20px;
+}
+.containerII {
+    display:flex;
+    padding:20px;
+}
+    
+.buttons {
+    display:flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.items,.total {
+    display:flex;
+    justify-content: space-between ;
+    width: 100%;
+    border: 10px solid black;
+    margin:20px;
+}
+    
+.newItems, .purchase{
+    display:block;
+    margin:auto;
+    padding:20px;
+}
+
+.containerIII {
+    display:flex;
+    justify-content: center ;
+    border: 10px solid black;
+    margin:100px;
+}
+
+.displays {
+     display:flex;
+    padding:20px;
+}
+
+.thingOne, .thingTwo {
+    display:flex;
+    justify-content: space-between ;
+    width: 100%;
+    margin:20px;
+}
+
+    
+body {
+    background-color: steelBlue;
+}
